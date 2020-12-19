@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ewiuqwnre
+  description: fiuqwenweri
+  annotations: 
+    github.com/project-slug: skalingclouds/backstagenew
+    backstage.io/github-actions-id: skalingclouds/backstagenew
+spec:
+  type: service
+  lifecycle: experimental
+  owner: chris
